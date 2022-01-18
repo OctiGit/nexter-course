@@ -1,6 +1,6 @@
 # Nexter Project
 
-Landing page of a houses sales company.
+Landing page of a homes sales company.
 
 The language learned in this course's project was CSS and SASS.
 
